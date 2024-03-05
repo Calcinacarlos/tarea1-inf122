@@ -1,0 +1,112 @@
+#principal
+{
+    width: 1000px;
+    height: 2000px;
+    background-color: mediumturquoise;
+}
+#sombrerop1
+{
+    width: 200px;
+    height: 50px;
+    background-color: chocolate;
+    display: inline-block;
+    position: relative;
+    left: 250px;
+}
+#sombrerop2
+{
+    width: 300px;
+    height: 25px;
+    background-color:coral;
+    display: inline-block;
+    position: relative;
+}
+#cab
+{
+    width: 300px;
+    height: 250px;
+    background-color:white;
+    position: relative;
+    border-radius: 110px;
+    left: 200px;
+    bottom: 5px;
+
+}
+#ojo1
+{
+    width: 70px;
+    height: 70px;
+    border-radius: 100px;
+    display: inline-block;
+    background-color: white;
+    position: relative;
+    left: 50px;
+    border: 3px black solid;
+    top: 30px;
+}
+#ojo2
+{
+    width: 70px;
+    height: 70px;
+    border-radius: 100px;
+    display: inline-block;
+    background-color: white;
+    position: relative;
+    top: 30px;
+    left: 90px;
+    border: 3px black solid;
+}
+#pun
+{
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: black;
+    position: relative;
+    left: 25px;
+    top: 30px;
+
+}
+#pun2
+{
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: black;
+    position: relative;
+    left: 25px;
+    top: 30px;
+}
+#nariz
+{
+    width: 70px;
+    height: 70px;
+    border-radius: 100px;
+    background-color: red;
+    position: relative;
+    left: 113px;
+      
+}
+#boca
+{
+    width: 180px;
+    height: 50px;
+    border-radius: 100px;
+    background-color: blue;
+    position: relative;
+    left: 40px;
+    border: 20px red solid;  
+}
+#linea
+{
+    width: 135px;
+    height: 5px;
+    background-color:black;
+    position: relative;
+    left: 17px;
+    top: 25px;
+}
+
+
+
+
